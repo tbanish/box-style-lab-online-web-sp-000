@@ -38,6 +38,9 @@ h4 {
 }
 
 .dubious {
+  border: 1px solid #ddcd22;
+  box-sizing: border-box;
+  box-shadow: -1px 1px #ddcd22, -2px 2px #ddcd22, -3px 3px #ddcd22, -4px 4px #ddcd22, -5px 5px #ddcd22;
   background-color: #dd4444;
 }
 
