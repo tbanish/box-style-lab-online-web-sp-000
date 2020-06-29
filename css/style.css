@@ -32,6 +32,7 @@ h4 {
 
 .indifferent {
   background-color: #dddd22;
+  box-sizing: border-box;
 }
 
 .dubious {
