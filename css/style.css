@@ -31,7 +31,7 @@ h4 {
   box-sizing: border-box;
   box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
   background-color: #44cc66;
-  background: linear-gradient(to left, #2a9a46, #44cc66)
+  background: linear-gradient(to right, #2a9a46, #44cc66)
 }
 
 .indifferent {
