@@ -40,6 +40,7 @@ h4.amiable {
 h4.indifferent {
   background: linear-gradient(to right, #9b9b18, #e7e765)
 }
+
 .indifferent {
   border: 1px solid #ddcd22;
   box-sizing: border-box;
@@ -47,12 +48,15 @@ h4.indifferent {
   background-color: #dddd22;
 }
 
+h4.dubious {
+  background: linear-gradient(to right, #891919, #e15b5b)
+}
+
 .dubious {
   border: 1px solid #b42121;
   box-sizing: border-box;
   box-shadow: -1px 1px #b42121, -2px 2px #b42121, -3px 3px #b42121, -4px 4px #b42121, -5px 5px #b42121;
   background-color: #dd4444;
-  background: linear-gradient(to right, #891919, #e15b5b)
 }
 
 .column {
